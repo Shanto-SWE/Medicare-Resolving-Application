@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1f48677-c0cd-4820-9620-855ed7f4ba46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1aCMdroPtMLc0hSbcC0mVigi2sC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dashboard/clients" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\cms\dashboard\clients" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1f48677-c0cd-4820-9620-855ed7f4ba46" name="Default Changelist" comment="" />
+      <created>1574874275817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574874275817</updated>
+      <workItem from="1574874284005" duration="5433000" />
+      <workItem from="1575191325680" duration="117000" />
+      <workItem from="1586235247358" duration="745000" />
+      <workItem from="1587675966275" duration="1283000" />
+      <workItem from="1587681410896" duration="3100000" />
+      <workItem from="1587738396818" duration="28776000" />
+      <workItem from="1587809648381" duration="18662000" />
+      <workItem from="1587899226397" duration="40367000" />
+      <workItem from="1587981730962" duration="26620000" />
+      <workItem from="1588078636080" duration="908000" />
+      <workItem from="1588094381610" duration="2571000" />
+      <workItem from="1588099952893" duration="5671000" />
+      <workItem from="1588185009111" duration="657000" />
+      <workItem from="1589545231519" duration="7955000" />
+      <workItem from="1590081682068" duration="188000" />
+      <workItem from="1592133479799" duration="1070000" />
+      <workItem from="1592544835919" duration="598000" />
+      <workItem from="1592546755365" duration="1348000" />
+      <workItem from="1592554106657" duration="20576000" />
+      <workItem from="1592598657838" duration="2384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="126" key="FileChooserDialogImpl" timestamp="1588187507069">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="462" y="126" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1588187507069" />
+    <state x="510" y="198" key="NewPhpClassDialog" timestamp="1592554564286">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="510" y="198" key="NewPhpClassDialog/0.0.1366.768@0.0.1366.768" timestamp="1592554564286" />
+    <state x="517" y="307" key="NewPhpFileDialog" timestamp="1588005686600">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="517" y="307" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1588005686600" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/dashboard/doctors/chat.php</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
