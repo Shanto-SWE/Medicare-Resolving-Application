@@ -105,15 +105,15 @@
                                 <ul>
                                     <li>
                                         <i class="fa fa-map-marker"></i>
-                                        4453 Meadow Lane, San Jose, CA 95134
+                                        Ashulia,Savar,Dhaka
                                     </li>
                                     <li>
                                         <i class="fa fa-phone"></i>
-                                        315-411-8716
+                                        +8801907925559
                                     </li>
                                     <li>
                                         <i class="fa fa-envelope-o"></i>
-                                        <a href="mailto:info@smart-pixel.xyz">info@smart-pixel.xyz</a>
+                                        <a href="shantoahmedswe@gmail.com">shantoahmedswe@gmail.com</a>
                                     </li>
                                 </ul>
 
