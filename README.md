@@ -5,5 +5,10 @@ The client can take an appointment with a doctor. The pharmacist will manage the
 
 
 Front-end: HTML,CSS,Javascript,Jquery and Bootstrap
+
 Back-end: Php
+
 Database: MySQL
+
+
+## Website Screenshort
