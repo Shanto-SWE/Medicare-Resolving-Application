@@ -19,7 +19,7 @@ Database: MySQL
 ![home2](https://user-images.githubusercontent.com/68535783/183963718-1194f5ea-6e45-4e37-840f-68acd8c3b3df.png)
 ![home3](https://user-images.githubusercontent.com/68535783/183963725-c71a211a-2f1b-4404-ae7d-cff6fb23f9f3.png)
 ## Client registration page
-<img width="961" alt="registration" src="https://user-images.githubusercontent.com/68535783/183964914-cb81ac18-9a1e-426f-a497-dfd79a531321.png">
+![Picture1](https://user-images.githubusercontent.com/68535783/183965923-fb10d787-b4d7-4177-81d9-075564aa4293.png)
 ## Client login page
 ![client login-page](https://user-images.githubusercontent.com/68535783/183964863-2e35a802-253e-4f36-89ce-14a007e8fb60.png)
 ## Client dashboard
